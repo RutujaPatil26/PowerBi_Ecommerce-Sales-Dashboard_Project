@@ -24,12 +24,16 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 
    ![2025-02-28 (1)](https://github.com/user-attachments/assets/1b8a5604-84ed-4fc0-9a9e-97c0dadb7638)
 
-2.Sum of Profit by Sub-Category: The Sum of Profit by Sub-Category chart shows Printers as the most profitable, followed by Bookcases, while Sarees, Accessories, and Tables generate lower profits. This helps in identifying high-margin products for better business decisions.
+2. Sum of Profit by Sub-Category: The Sum of Profit by Sub-Category chart shows Printers as the most profitable, followed by Bookcases, while Sarees, Accessories, and Tables generate lower profits. This helps in identifying high-margin products for better business decisions.
 
 
 
-  ![2025-02-28 (2)](https://github.com/user-attachments/assets/5e0626b5-1c0e-4061-9acf-765f6faff834)
+   ![2025-02-28 (2)](https://github.com/user-attachments/assets/5e0626b5-1c0e-4061-9acf-765f6faff834)
 
 
+3. Sum of Quantity by Category : The Sum of Quantity by Category chart shows that Clothing (63%) has the highest sales volume, followed by Electronics (21%) and Furniture (17%). This indicates that clothing dominates overall sales, while electronics and furniture contribute comparatively less.
+
+
+   ![Screenshot (52)](https://github.com/user-attachments/assets/aa411bbb-7ab8-4162-87e6-76fd1d681ca4)
 
 
