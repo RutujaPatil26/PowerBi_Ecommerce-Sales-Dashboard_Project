@@ -27,6 +27,8 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 2.Sum of Profit by Sub-Category: The Sum of Profit by Sub-Category chart shows Printers as the most profitable, followed by Bookcases, while Sarees, Accessories, and Tables generate lower profits. This helps in identifying high-margin products for better business decisions.
 
 
+
+
 ![Uploading 2025-02-28 (2).png…]()
 
 
