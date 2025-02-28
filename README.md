@@ -43,3 +43,9 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 
      ![Screenshot (50)](https://github.com/user-attachments/assets/e998f094-8eb1-4166-8c8b-b1d41144630c)
 
+
+5. Sum of Amount by State: The Sum of Amount by State chart shows that Maharashtra has the highest sales, followed by Madhya Pradesh, Uttar Pradesh, and Delhi. This highlights Maharashtra as the top-performing state in revenue generation.
+
+
+
+     ![2025-02-28](https://github.com/user-attachments/assets/10d079b7-682b-42c5-b29d-1f3a54695501)
