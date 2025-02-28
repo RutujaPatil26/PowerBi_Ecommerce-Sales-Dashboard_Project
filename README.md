@@ -17,3 +17,8 @@ Customer-wise Sales: Highlights top customers contributing to revenue.
 Payment Mode Analysis: Displays the share of sales based on payment methods (COD, UPI, Debit, Credit, EMI).
 
 Sub-category Profitability: A bar chart showing profit distribution across sub-categories like Printers, Bookcases, Sarees, Accessories, and Tables.
+
+## Visualization
+1. Profit By Month
+   ![Uploading 2025-02-28 (1).png…]()
+
