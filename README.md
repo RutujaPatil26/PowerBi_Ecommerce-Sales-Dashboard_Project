@@ -40,4 +40,6 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 4. Sum of Quantity by PaymentMode: The Sum of Quantity by Payment Mode chart shows that Cash on Delivery (COD) (44%) is the most preferred payment method, followed by UPI (21%), Debit (13%), Credit (12%), and EMI (10%). This highlights customer payment preferences, with COD being the dominant choice.
 
 
-   ![Uploading Screenshot (50).png…]()
+
+![Screenshot (50)](https://github.com/user-attachments/assets/e998f094-8eb1-4166-8c8b-b1d41144630c)
+
