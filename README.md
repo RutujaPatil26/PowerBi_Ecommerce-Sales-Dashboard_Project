@@ -49,3 +49,11 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 
 
      ![2025-02-28](https://github.com/user-attachments/assets/10d079b7-682b-42c5-b29d-1f3a54695501)
+
+
+6. Sum of Amount by CustomerName: The Sum of Amount by Customer Name chart shows that Harivansh and Madhav are the highest-spending customers, followed by Madan Mohan and Shiva. This helps identify key customers contributing the most to revenue.
+
+
+
+     ![Screenshot (53)](https://github.com/user-attachments/assets/09366b17-2054-4592-8874-1e624e17322e)
+
