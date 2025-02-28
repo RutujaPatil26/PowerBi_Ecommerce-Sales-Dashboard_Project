@@ -28,7 +28,7 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 
 
 
-![2025-02-28 (2)](https://github.com/user-attachments/assets/5e0626b5-1c0e-4061-9acf-765f6faff834)
+  ![2025-02-28 (2)](https://github.com/user-attachments/assets/5e0626b5-1c0e-4061-9acf-765f6faff834)
 
 
 
