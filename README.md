@@ -57,3 +57,10 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 
      ![Screenshot (53)](https://github.com/user-attachments/assets/09366b17-2054-4592-8874-1e624e17322e)
 
+
+## Ecommerce Sales Analysis Report:
+
+
+
+   ![Screenshot (54)](https://github.com/user-attachments/assets/3c771571-1161-482c-a6e3-0699f1e3a638)
+
