@@ -20,5 +20,8 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
 
 ## Visualization
 1. Profit By Month
-   ![Uploading 2025-02-28 (1).png…]()
+
+
+   ![2025-02-28 (1)](https://github.com/user-attachments/assets/1b8a5604-84ed-4fc0-9a9e-97c0dadb7638)
+
 
