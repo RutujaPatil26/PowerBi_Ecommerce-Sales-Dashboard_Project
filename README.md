@@ -31,9 +31,13 @@ Sub-category Profitability: A bar chart showing profit distribution across sub-c
    ![2025-02-28 (2)](https://github.com/user-attachments/assets/5e0626b5-1c0e-4061-9acf-765f6faff834)
 
 
-3. Sum of Quantity by Category : The Sum of Quantity by Category chart shows that Clothing (63%) has the highest sales volume, followed by Electronics (21%) and Furniture (17%). This indicates that clothing dominates overall sales, while electronics and furniture contribute comparatively less.
+3. Sum of Quantity by Category: The Sum of Quantity by Category chart shows that Clothing (63%) has the highest sales volume, followed by Electronics (21%) and Furniture (17%). This indicates that clothing dominates overall sales, while electronics and furniture contribute comparatively less.
 
 
    ![Screenshot (52)](https://github.com/user-attachments/assets/aa411bbb-7ab8-4162-87e6-76fd1d681ca4)
 
 
+4. Sum of Quantity by PaymentMode: The Sum of Quantity by Payment Mode chart shows that Cash on Delivery (COD) (44%) is the most preferred payment method, followed by UPI (21%), Debit (13%), Credit (12%), and EMI (10%). This highlights customer payment preferences, with COD being the dominant choice.
+
+
+   ![Uploading Screenshot (50).png…]()
