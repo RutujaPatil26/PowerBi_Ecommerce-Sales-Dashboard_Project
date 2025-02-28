@@ -19,9 +19,15 @@ Payment Mode Analysis: Displays the share of sales based on payment methods (COD
 Sub-category Profitability: A bar chart showing profit distribution across sub-categories like Printers, Bookcases, Sarees, Accessories, and Tables.
 
 ## Visualization
-1. Profit By Month
+1. Profit By Month: The Profit by Month chart shows high profits from January to April, a sharp decline with losses in May and June, fluctuating gains and losses from July to November, and a strong recovery in December. This highlights seasonal trends and areas for improvement.
 
 
    ![2025-02-28 (1)](https://github.com/user-attachments/assets/1b8a5604-84ed-4fc0-9a9e-97c0dadb7638)
+
+2.Sum of Profit by Sub-Category: The Sum of Profit by Sub-Category chart shows Printers as the most profitable, followed by Bookcases, while Sarees, Accessories, and Tables generate lower profits. This helps in identifying high-margin products for better business decisions.
+
+
+![Uploading 2025-02-28 (2).png…]()
+
 
 
